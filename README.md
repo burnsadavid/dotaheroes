@@ -1,6 +1,6 @@
 # Purpose of this Program
 
-This program will pit two dota heroes in a simple right-click battle. It will record time-to-kill and resulting HP of surviving hero. Attack range will be ignored. Battle will be at level 1 with no items.
+This program will pit two dota heroes in a simple right-click battle. It will record time-to-kill and resulting HP of surviving hero. Attack range, innate, and facet abilities will be ignored. Battle will be at level 1 with no items.
 
 # Components of the Program
 
